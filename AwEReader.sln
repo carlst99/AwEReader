@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwEReader.App", "AwEReader.App\AwEReader.App\AwEReader.App.csproj", "{0838B796-3B51-42AD-B192-4FF291AF400E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwEReader.App.Android", "AwEReader.App\AwEReader.App.Android\AwEReader.App.Android.csproj", "{040EE8DE-BA7B-4420-9F30-FF34F23410D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwEReader.App.Desktop", "AwEReader.App\AwEReader.App.Desktop\AwEReader.App.Desktop.csproj", "{840DC93E-B9C2-4D52-8784-E5BEA05105A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwEReader.App.iOS", "AwEReader.App\AwEReader.App.iOS\AwEReader.App.iOS.csproj", "{C1934EA5-03D4-427E-A07C-984B16CF8151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwEReader.App.Web", "AwEReader.App\AwEReader.App.Web\AwEReader.App.Web.csproj", "{DF127550-0531-4591-820D-21A82F35B646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwEReader.Core", "AwEReader.Core\AwEReader.Core.csproj", "{724855F7-E5FE-4D73-A406-9594FCBEBA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0838B796-3B51-42AD-B192-4FF291AF400E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0838B796-3B51-42AD-B192-4FF291AF400E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0838B796-3B51-42AD-B192-4FF291AF400E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0838B796-3B51-42AD-B192-4FF291AF400E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040EE8DE-BA7B-4420-9F30-FF34F23410D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040EE8DE-BA7B-4420-9F30-FF34F23410D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040EE8DE-BA7B-4420-9F30-FF34F23410D4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{040EE8DE-BA7B-4420-9F30-FF34F23410D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040EE8DE-BA7B-4420-9F30-FF34F23410D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040EE8DE-BA7B-4420-9F30-FF34F23410D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{840DC93E-B9C2-4D52-8784-E5BEA05105A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840DC93E-B9C2-4D52-8784-E5BEA05105A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840DC93E-B9C2-4D52-8784-E5BEA05105A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840DC93E-B9C2-4D52-8784-E5BEA05105A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1934EA5-03D4-427E-A07C-984B16CF8151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1934EA5-03D4-427E-A07C-984B16CF8151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1934EA5-03D4-427E-A07C-984B16CF8151}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C1934EA5-03D4-427E-A07C-984B16CF8151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1934EA5-03D4-427E-A07C-984B16CF8151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1934EA5-03D4-427E-A07C-984B16CF8151}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DF127550-0531-4591-820D-21A82F35B646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF127550-0531-4591-820D-21A82F35B646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF127550-0531-4591-820D-21A82F35B646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF127550-0531-4591-820D-21A82F35B646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724855F7-E5FE-4D73-A406-9594FCBEBA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724855F7-E5FE-4D73-A406-9594FCBEBA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724855F7-E5FE-4D73-A406-9594FCBEBA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724855F7-E5FE-4D73-A406-9594FCBEBA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
