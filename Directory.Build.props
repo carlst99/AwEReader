@@ -1,11 +1,11 @@
 <Project>
 
-  <!-- Build-related properties -->
-  <PropertyGroup>
-    <TargetFrameworks>net6.0;net7.0</TargetFrameworks>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>disable</ImplicitUsings>
-    <AvaloniaVersion>11.0.0-preview4</AvaloniaVersion>
-  </PropertyGroup>
+    <!-- Build-related properties -->
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <AvaloniaVersion>11.0.4</AvaloniaVersion>
+    </PropertyGroup>
 
 </Project>
